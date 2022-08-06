@@ -3,7 +3,7 @@ It's me, Stefan!
 # Usage
 
 ```bash
-npx natterstefan
+npx hemasrikar
 ```
 
 # Credit
