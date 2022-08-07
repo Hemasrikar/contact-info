@@ -17,7 +17,7 @@ const data = {
   name: chalk.white('Hema Srikar'),
   handle: chalk.cyan('@Hemasrikar'),
   labelWork: chalk.white.bold('      Work:'),
-  work: chalk.white('Aerospace Engineer'),
+  work: chalk.white('Aerospace Engineer 🚀🛰️, Amateur Programmer 👨‍💻'),
   labelTwitter: chalk.white.bold('   Twitter:'),
   twitter: chalk.cyan('https://twitter.com/Srikar_ankem'),
   labelGitHub: chalk.white.bold('    GitHub:'),
