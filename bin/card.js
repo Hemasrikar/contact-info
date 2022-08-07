@@ -41,8 +41,9 @@ const twittering = `${data.labelTwitter}  ${data.twitter}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
 // const webing = `${data.labelWeb}  ${data.web}`
-const carding = `${data.labelCard}  ${data.npx}`
 const emailing = `${data.labelEmail} ${data.email}`
+const carding = `${data.labelCard}  ${data.npx}`
+
 
 // Put all our output together into a single variable so we can use boxen
 // effectively
