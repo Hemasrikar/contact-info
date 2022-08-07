@@ -8,7 +8,7 @@ const boxen = require('boxen')
 // Define options for Boxen
 const options = {
   padding: 1,
-  margin: 1,
+  margin: 1.5,
   borderStyle: 'round',
 }
 
@@ -17,7 +17,7 @@ const data = {
   name: chalk.white('Hema Srikar'),
   handle: chalk.cyan('@Hemasrikar'),
   labelWork: chalk.white.bold('      Work:'),
-  work: chalk.white('Aerospace Engineer 🚀🛰️, Amateur Programmer 👨‍💻'),
+  work: chalk.white('Aerospace Engineer🚀🛰️, Amateur Programmer👨‍💻'),
   labelTwitter: chalk.white.bold('   Twitter:'),
   twitter: chalk.cyan('https://twitter.com/Srikar_ankem'),
   labelGitHub: chalk.white.bold('    GitHub:'),
