@@ -1,6 +1,6 @@
 {
   "name": "srikar_contact_info",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Hema Srikar's Business card",
   "main": "./bin/card.js",
   "bin": {
