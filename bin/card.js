@@ -61,6 +61,6 @@ const output =
   emailing +
   newline +
   newline +
-  carding
+
 
 console.log(chalk.green(boxen(output, options)))
